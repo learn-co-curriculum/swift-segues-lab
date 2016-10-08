@@ -4,6 +4,7 @@
 
 > Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it. -[Oprah Winfrey](https://en.wikipedia.org/wiki/Oprah_Winfrey)
 
+
 ## Overview
 
 In this lab you'll create an app that displays a list in a table view. 
@@ -69,3 +70,5 @@ A basic Xcode project has been set up for you in the file `Animals/Animal.xcodep
 That's it! You should now have a fully-functional version of this application. Congratulations! You're well on your way to becoming an expert in iOS segues.
 
 <a href='https://learn.co/lessons/SegueLab' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/swift-segues-lab'>Swift Segues Lab</a> on Learn.co and start learning to code for free.</p>
